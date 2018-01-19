@@ -18,4 +18,5 @@ These instructions will get you a copy of the project up and running on your loc
 * Press down-arrow key to move mouse cursor downwards.
 * Press left-arrow key to move mouse cursor to the left.
 * Press right-arrow key to move mouse cursor to the right.
+* Press right-ctrl-key to left click.
 * Press Esc key to exit program.
