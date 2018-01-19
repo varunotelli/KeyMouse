@@ -11,6 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 * Clone this repository.
 * Navigate to the directory you have just cloned using the command prompt for Windows or Terminal for Linux/Mac users.
+* Type `python mouse.py` in the Command Prompt/Terminal.
 
 ## Testing
 * Press up-arrow key to move mosue cursor upwards.
